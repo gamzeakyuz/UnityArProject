@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54589127231",
+    "firebase_url": "https://projeodeviar-default-rtdb.firebaseio.com",
+    "project_id": "projeodeviar",
+    "storage_bucket": "projeodeviar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54589127231:android:0e04b0cf673f6558b1d68a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.projeOdeviAr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54589127231-k918u05sliohqqfp35frs7brvk325sb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE62aL6PoujbU5dD6vFde_r5QPY4M9tFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54589127231-k918u05sliohqqfp35frs7brvk325sb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

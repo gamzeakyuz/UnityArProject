@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d9943313196d44d27a3a94171c6e4106
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Moguine Serif PERSONAL USE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76ddbe837776845ba8536790a2c9caaf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

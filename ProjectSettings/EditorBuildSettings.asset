@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Anasayfa.unity
+    guid: 18ab135743e164460b7b12d24c570a49
+  - enabled: 1
+    path: Assets/Scenes/Giris.unity
+    guid: 7347fd7eee4ec45c386db5863f13d277
+  - enabled: 1
+    path: Assets/Scenes/Iletisim.unity
+    guid: 642a036dceb994514b591de8c3c8ea83
+  - enabled: 1
+    path: Assets/Scenes/Imzalar.unity
+    guid: 50f9a0b26840a449f876cdf46bc6aeea
+  - enabled: 1
+    path: Assets/Scenes/TaraSayfa.unity
+    guid: 3d58355a157da450ab41708d2d2a5202
+  m_configObjects: {}
